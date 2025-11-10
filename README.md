@@ -1,2 +1,2 @@
 # PL-PYTHON
-This repo is to saved all python related content.
+This repo is to save all python related content.
